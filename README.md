@@ -27,3 +27,19 @@ distributions.</p>
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
 
+# Cryptoinfo
+A simple python program allowing users to find the prices of popular cryptocurrencies from the command line.
+
+# Commands 
+
+* list
+  * type in with a search term to get a list of all matching currencies
+  
+* help
+  * will tell you how to use the program (incomplete)
+  
+ * to usd 
+   * just type in the code (BTC, LTC, Etc.) and it will be converted to USD
+  
+ * to any other currency
+   * enter the codes for two different cryptocurrencies to have the first converted into the second
