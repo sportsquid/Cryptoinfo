@@ -14,7 +14,7 @@ parts:
     source-tag: master
     plugin: python
     requirements: requirements.txt
-     python-packages:
+    python-packages:
         - urllib3
 
 
