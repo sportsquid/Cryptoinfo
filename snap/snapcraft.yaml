@@ -13,7 +13,7 @@ parts:
     source: https://github.com/sportsquid/cryptoinfo.git
     source-tag: master
     plugin: python
-    requirements: requirements.txt
+    requirements: /requirements.txt
     python-packages:
         - urllib3
 
