@@ -1,0 +1,24 @@
+name: cryptoinfo # you probably want to 'snapcraft register <name>'
+version: '0.5.1' 
+summary: Get prices of cryptocurrencies from the command line 
+description: |
+  A simple python program allowing users to find 
+  the prices of popular cryptocurrencies from the command line.
+
+grade: stable # must be 'stable' to release into candidate/stable channels
+confinement: strict # use 'strict' once you have the right plugs and slots
+
+parts:
+  cryptoinfo:
+    source: https://github.com/sportsquid/Cryptoinfo.git
+    source-tag: master
+    plugin: python
+    requirements: requirements.txt
+
+
+
+
+apps:
+  cryptoinfo:
+    command: cryptoinfo
+    plugs: [network] 
