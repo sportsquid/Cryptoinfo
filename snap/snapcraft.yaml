@@ -10,7 +10,7 @@ confinement: strict # use 'strict' once you have the right plugs and slots
 
 parts:
   cryptoinfo:
-    source: https://github.com/sportsquid/Cryptoinfo.git
+    source: https://github.com/sportsquid/cryptoinfo.git
     source-tag: master
     plugin: python
     requirements: requirements.txt
