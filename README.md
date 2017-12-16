@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/sportsquid/cryptoinfo/master/cryptoinfo.png" alt="Project">
   <br />
-  [Project]
 </h1>
 
 <p align="center"><b>This is the snap for Cryptoinfo</b>, <i>"Get the prices of popular cryptocurrencies from the command line"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
