@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=" cryptoinfo/cryptoinfo.png" alt="Project">
+  <img src="https://raw.githubusercontent.com/sportsquid/cryptoinfo/master/cryptoinfo.png" alt="Project">
   <br />
   [Project]
 </h1>
